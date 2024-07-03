@@ -21,6 +21,5 @@ This project showcases the analysis of sales data for a pizza chain using MySQL.
 ## Tools and Technologies
 
 - **Database:** MySQL
-- **Data Visualization:** (Optional: If you have any visualizations, mention the tools like Power BI or Excel)
 - **SQL Queries:** Comprehensive SQL scripts for data extraction, transformation, and analysis.
 
